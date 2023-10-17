@@ -7,7 +7,7 @@
 
 # Site Settings
 remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "contrast"
+minimal_mistakes_skin    : "air"
 locale                   : "en-US"
 title                    : "Marina Lemos"
 title_separator          : "-"
