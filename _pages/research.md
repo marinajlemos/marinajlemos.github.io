@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# Work in Progress
+### Work in Progress
 
 * The Role of Student Loan Size on In- and Post-College Choices: Evidence from Brazil
 
@@ -18,4 +18,11 @@ redirect_from:
 * No Quid Pro Quo? Evidence on Clientelism and (Lack of) Firm Growth
 
 * Dampening Natural Disasters' Disruptive Effects on Firms and Labor Markets  
-with Michael Best, Renata Lemos, and Daniela Scur (funded by JPAL and IGC)
+*with Michael Best, Renata Lemos, and Daniela Scur (funded by JPAL and IGC)*
+
+---
+
+### Older Work
+
+* The Effect of Gender on College Major Choice: Evidence from Brazil  
+<span style = "font-size: 2em; ">*Master's Thesis, Fundacao Getulio Vargas (FGV/EPGE)*</span>
