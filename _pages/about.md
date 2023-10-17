@@ -17,7 +17,6 @@ Prior to Columbia, I received my B.A. and M.A. in Economics from Fundacao Getuli
 
 You can reach me at [mdl2178@columbia.edu](mailto:mdl2178@columbia.edu). 
 
-author:
-  email            : "mdl2178@columbia.edu"
-  github           : "marinajlemos"
-  linkedin         : "marina-lemos-"
+email            : "mdl2178@columbia.edu"
+github           : "marinajlemos"
+linkedin         : "marina-lemos-"
