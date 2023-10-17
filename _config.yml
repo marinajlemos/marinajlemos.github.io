@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Marina Lemos"
   avatar           : "profile.png"
-  bio              : "PhD Candidate in Economics at Columbia University"
+  bio              : #"PhD Candidate in Economics at Columbia University"
   location         : "New York, NY"
   employer         :
   pubmed           : 
