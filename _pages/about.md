@@ -3,8 +3,8 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-image:
-  feature: profile.png
+layout: single
+classes: wide
 redirect_from: 
   - /about/
   - /about.html
