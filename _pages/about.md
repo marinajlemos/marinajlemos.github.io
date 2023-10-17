@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome! 
 
-{% include figure image_path= "profile.png" %}
+{% include figure image_path= "/images/profile.png" %}
 
 I am a 5th year PhD candidate in Economics at Columbia University with an interest in labor and public economics topics in the context of developing countries. 
 
