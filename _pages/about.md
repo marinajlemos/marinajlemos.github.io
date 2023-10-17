@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/profile.png" alt="" width = "50%" class = "align-left">
+<img src="{{ site.url }}{{ site.baseurl }}/images/profile.png" alt="" width = "45%" class = "align-left">
 Welcome!  
 
 I am a 5th year PhD candidate in Economics at Columbia University with an interest in labor and public economics topics in the context of developing countries. 
