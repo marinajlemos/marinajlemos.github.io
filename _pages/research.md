@@ -18,11 +18,11 @@ redirect_from:
 * No Quid Pro Quo? Evidence on Clientelism and (Lack of) Firm Growth
 
 * Dampening Natural Disasters' Disruptive Effects on Firms and Labor Markets  
-<sub><sup>*with Michael Best, Renata Lemos, and Daniela Scur (funded by JPAL and IGC)*</sup></sub>
+:   *with Michael Best, Renata Lemos, and Daniela Scur (funded by JPAL and IGC)*
 
 ---
 
 ## Older Work
 
 * The Effect of Gender on College Major Choice: Evidence from Brazil  
-<sub><sup>*Master's Thesis, Fundacao Getulio Vargas (FGV/EPGE)*</sup></sub>
+:   *Master's Thesis, Fundacao Getulio Vargas (FGV/EPGE)*
