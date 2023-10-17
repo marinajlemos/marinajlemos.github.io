@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Click [here] to download my CV.()
+Click [here]() to download my CV.
