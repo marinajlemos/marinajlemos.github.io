@@ -25,4 +25,4 @@ redirect_from:
 ## Previous Work
 
 * The Effect of Gender on College Major Choice: Evidence from Brazil  
-<sub>*Master's Thesis, Fundacao Getulio Vargas (FGV-EPGE)*</sub>
+<sub>*Master's Thesis, Fundação Getulio Vargas (FGV-EPGE)*</sub>
