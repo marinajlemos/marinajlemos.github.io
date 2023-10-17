@@ -3,8 +3,6 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-header:
-  header: image-alignment-1200x4002.jpg
 redirect_from: 
   - /about/
   - /about.html
