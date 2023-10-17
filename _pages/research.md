@@ -18,4 +18,5 @@ redirect_from:
 * No Quid Pro Quo? Evidence on Clientelism and (Lack of) Firm Growth
 
 * Dampening Natural Disasters' Disruptive Effects on Firms and Labor Markets
+
 with Michael Best, Renata Lemos, and Daniela Scur (funded by JPAL and IGC)
