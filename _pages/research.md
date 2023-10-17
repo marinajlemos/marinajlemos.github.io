@@ -17,12 +17,12 @@ A Win-Win Situation for Employer and Employee: The Labor Market Effects of an In
 
 No Quid Pro Quo? Evidence on Clientelism and (Lack of) Firm Growth  
 
-Dampening Natural Disasters' Disruptive Effects on Firms and Labor Markets
-:*with Michael Best, Renata Lemos, and Daniela Scur (funded by JPAL and IGC)*
+Dampening Natural Disasters' Disruptive Effects on Firms and Labor Markets   
+:   *with Michael Best, Renata Lemos, and Daniela Scur (funded by JPAL and IGC)*
 
 ---
 
 ## Older Work
 
 The Effect of Gender on College Major Choice: Evidence from Brazil  
-:*Master's Thesis, Fundacao Getulio Vargas (FGV/EPGE)*
+:   *Master's Thesis, Fundacao Getulio Vargas (FGV/EPGE)*
