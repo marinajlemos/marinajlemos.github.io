@@ -2,6 +2,8 @@
 permalink: /
 title: ""
 excerpt: ""
+header:
+  overlay_image: image_header.jpg
 author_profile: true
 redirect_from: 
   - /about/
