@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## Work in Progress
+## Works in Progress
 
 * The Role of Student Loan Size on In- and Post-College Choices: Evidence from Brazil  
 
