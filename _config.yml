@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Marina Lemos"
 title_separator          : "-"
 name                     : &name "Marina Lemos"
-description              : &description "personal description"
+description              : &description ""
 url                      : https://marinajlemos.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "marinajlemos/marinajlemos.github.io"
