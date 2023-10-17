@@ -2,6 +2,7 @@
 permalink: /
 title: ""
 excerpt: ""
+classes: wide
 author_profile: true
 redirect_from: 
   - /about/
