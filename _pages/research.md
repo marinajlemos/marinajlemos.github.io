@@ -2,6 +2,7 @@
 layout: archive
 title: ""
 permalink: /research/
+classes: wide
 author_profile: true
 redirect_from:
   - /research
