@@ -14,20 +14,24 @@
   bottom: 0em;
   height: auto;
   /* sticky footer fix end */
-  margin-top: 3em;
+  margin-top: 1em;
+     /*3em;*/
   color: mix(#fff, $gray, 25%);
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.45s;
           animation-delay: 0.45s;
-  background-color: $lighter-gray;
-  border-top: 1px solid $light-gray;
+  background-color: #eaf2f8;
+     /*$lighter-gray;*/
+  border-top: 1px solid #eaf2f8;
+     /*$light-gray;*/
 
   footer {
     @include clearfix;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 2em;
+    margin-top: 1em;
+       /*2em;*/
     max-width: 100%;
     padding: 0 1em 2em;
 
@@ -37,7 +41,8 @@
   }
 
   a {
-    color: inherit;
+    color: #11374f;
+       /*inherit;*/
     text-decoration: none;
 
     &:hover {
