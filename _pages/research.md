@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-### Work in Progress
+## Work in Progress
 
 * The Role of Student Loan Size on In- and Post-College Choices: Evidence from Brazil
 
@@ -22,7 +22,7 @@ redirect_from:
 
 ---
 
-### Older Work
+## Older Work
 
 * The Effect of Gender on College Major Choice: Evidence from Brazil  
 <sub><sup>*Master's Thesis, Fundacao Getulio Vargas (FGV/EPGE)*</sup></sub>
