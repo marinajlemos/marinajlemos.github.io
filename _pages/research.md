@@ -7,5 +7,6 @@ redirect_from:
   - /research
 ---
 
-## Work in Progress
+{% include base_path %}
 
+## Work in Progress
