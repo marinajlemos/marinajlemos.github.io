@@ -11,7 +11,7 @@ redirect_from:
 
 ## Works in Progress
 
-* The Role of Student Loan Size on In- and Post-College Choices: Evidence from Brazil  
+* Beyond Borrowing: The Effects of a Student Loan Program Expansion on Students and Local Labor Markets
 
 * A Win-Win Situation for Employer and Employee: The Labor Market Effects of an Income Tax Deduction Program  
 
