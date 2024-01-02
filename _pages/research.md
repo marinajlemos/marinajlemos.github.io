@@ -14,9 +14,7 @@ redirect_from:
 * Beyond Borrowing: The Effects of a Student Loan Program Expansion on Students and Local Labor Markets
 
 * A Win-Win Situation for Employer and Employee: The Labor Market Effects of an Income Tax Deduction Program   
-<p style="text-align: justify;">
-<sub>Labor informality is a stark reality in most developing countries, and tax policy is often seen as a potential solution to this phenomenon. This paper studies the introduction of an income tax deduction program that aimed to affect the labor formality status of workers by changing the economic incentives of their employers. Using Brazilian survey data from before and after the policy change, I compare the labor market outcomes - such as the probability of being formally hired, number of hours worked, and hourly wages - of targeted and non-targeted workers in the same occupation with a difference-in-difference strategy. In addition, I extend this framework to evaluate whether there are heterogeneous effects of this tax policy based on eligibility to the Brazilian conditional cash transfer program.</sub> 
-</p>
+<p style="text-align: justify;"> Labor informality is a stark reality in most developing countries, and tax policy is often seen as a potential solution to this phenomenon. This paper studies the introduction of an income tax deduction program that aimed to affect the labor formality status of workers by changing the economic incentives of their employers. Using Brazilian survey data from before and after the policy change, I compare the labor market outcomes - such as the probability of being formally hired, number of hours worked, and hourly wages - of targeted and non-targeted workers in the same occupation with a difference-in-difference strategy. In addition, I extend this framework to evaluate whether there are heterogeneous effects of this tax policy based on eligibility to the Brazilian conditional cash transfer program. </p>
 
 * No Quid Pro Quo? Evidence on Clientelism and (Lack of) Firm Growth
 <p style="text-align: justify;">
