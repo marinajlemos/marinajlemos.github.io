@@ -26,5 +26,5 @@ Dampening Natural Disasters' Disruptive Effects on Firms and Labor Markets
 
 ## Previous Work
 
-* The Effect of Gender on College Major Choice: Evidence from Brazil  
-<span style="align: justify; font-size: 14px">_Master's Thesis, Fundação Getulio Vargas (FGV-EPGE)_</span>
+The Effect of Gender on College Major Choice: Evidence from Brazil 
+<div style = "text-align: justify; font-size: 14px; class: italic">Master's Thesis, Fundação Getulio Vargas (FGV-EPGE)</div>
