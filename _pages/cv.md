@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Click [here](/files/CV_MarinaLemos.pdf) to download my CV.
+Click [here](/files/CV_Marina_Lemos.pdf) to download my CV.
