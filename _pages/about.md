@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/profile.jpg" alt="" width = "45%" class = "align-center">
+<img src="{{ site.url }}{{ site.baseurl }}/images/profile.jpg" alt="" width = "60%" class = "align-center">
 
 Welcome!  
 
-I am a 5th year PhD candidate in Economics at Columbia University with an interest in labor and public economics topics in the context of developing countries. 
+I am a 6th year PhD candidate in Economics at Columbia University with an interest in labor and public economics topics in the context of developing countries. 
 
 Prior to Columbia, I received my B.A. and M.A. in Economics from Fundação Getulio Vargas (FGV-EPGE) in 2016 and 2019, respectively. 
 
