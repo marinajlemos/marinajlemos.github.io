@@ -115,6 +115,13 @@
   text-align: justify;
 }
 
+.profile-image {
+  width: 150px; /* Adjust the width as needed */
+  height: auto; /* Maintain aspect ratio */
+  margin-right: 20px; /* Increase this value to add more space between the photo and text */
+  float: left; /* Align the image to the left of the text */
+}
+
 .page__hero {
   position: relative;
   margin-bottom: 2em;
