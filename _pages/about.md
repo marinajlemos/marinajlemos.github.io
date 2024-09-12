@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/profile.jpg" alt="" class = "align-right" style = "width: 60%; margin-left: 5px;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/profile.jpg" alt="" class = "align-right" style = "width: 40%; margin-left: 10px;">
 
 Welcome!  
 
