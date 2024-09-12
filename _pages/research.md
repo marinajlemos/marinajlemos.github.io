@@ -26,5 +26,5 @@ Dampening Natural Disasters' Disruptive Effects on Firms and Labor Markets
 
 ## Previous Work
 
-The Effect of Gender on College Major Choice: Evidence from Brazil 
-<div style = "text-align: justify; font-size: 14px; font-style: italic">Master's Thesis, Fundação Getulio Vargas (FGV-EPGE)</div>
+The Effect of Gender on College Major Choice: Evidence from Brazil (Master's Thesis, FGV-EPGE) 
+<div style = "text-align: justify; font-size: 14px; font-style: italic">This dissertation evaluates how gender affects college major choice in Brazil by estimating a discrete choice model with a nested logit specification. I use data from a Brazilian standardized exam taken by most seniors who wish to pursue a college degree, and a large matching platform for students applying to college, which is run by the Ministry of Education. The main results show that women are more likely to register in this matching platform than men, and that being female reduces the probability of choosing a STEM related major in the matching platform. These results seem to indicate the existence of a gender-specific component on college major choice in the Brazilian context. Furthermore, I find that although performance in the standardized test only has a small, but significant, average marginal effect on choice probabilities, women’s choice probabilities would be affected in the counterfactual scenario where they score the same grades as men in the exam. Nonetheless, the gender-specific component still appears to impact female students’ choice probabilities in this scenario.</div>
